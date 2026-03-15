@@ -1,5 +1,5 @@
 # Fly Emirates Flight Performance Dashboard
-
+![Dashboard](Dashboard.png)
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes flight performance for Emirates Airlines including trends, delays, passenger distribution, and revenue.
